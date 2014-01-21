@@ -1,0 +1,5 @@
+NAME WEBALIZER WINDOWCOMPAT
+DESCRIPTION
+	"WebAlizer/2"
+IMPORTS 
+gethostbyaddr		=tcpip32.112
